@@ -8,10 +8,14 @@ I've created this project to test my **understanding** of the **FastAPI** (one o
 ### Folder Structrue:
 
 /project_root
-│── main.py       # Main FastAPI application
-│── requirements.txt  # Optional: List of dependencies, libraires
-│── README.md     # Project documentation
-│── /venv         # Virtual environment (optional)
+
+│── main.py                 [Main FastAPI application]
+
+│── requirements.txt        [Optional: List of dependencies, libraires]
+
+│── README.md               [Project documentation]
+
+│── /venv                   [Virtual environment (optional)]
 
 
 ### Implementation:
